@@ -1,0 +1,50 @@
+# Site settings
+title: phareim
+email: phareim@gmail.com
+url: http://phareim.github.io
+description: "Father. Husband. Geek. Good Guy."
+skills: "Web Developer - Graphic Artist - User Experience Designer"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Petter Hareim
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/phareim
+  - title: facebook
+    url: http://facebook.com/phareim
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/373975/phareim
+  - title: flickr
+    url: https://www.flickr.com/photos/petterhareim/
+  - title: github
+    url: http://github.com/phareim
+  - title: tumblr
+    url: http://petter.tumblr.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Haugesund
+  - line: Norway
+
+# Credits content
+credits: 'Roll Credits.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
