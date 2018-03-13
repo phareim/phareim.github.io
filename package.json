@@ -1,0 +1,27 @@
+{
+  "name": "phareim.github.io",
+  "version": "2.0.0",
+  "description": "static homepage of Petter",
+  "main": "index.html",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "autoreload-server -w \"**/**.{html,css,js}\" ./ 7777"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phareim/phareim.github.io.git"
+  },
+  "keywords": [
+    "home",
+    "petter",
+    "hareim"
+  ],
+  "author": "Petter Hareim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phareim/phareim.github.io/issues"
+  },
+  "homepage": "https://github.com/phareim/phareim.github.io#readme"
+}
