@@ -1,6 +1,6 @@
 /*! HTML5 Boilerplate v6.0.1 | MIT License | https://html5boilerplate.com/ */
 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Josefin+Slab');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;600&family=Orbitron:wght@400;700&display=swap');
 /*
  * What follows is the result of much research on cross-browser styling.
  * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
@@ -15,7 +15,7 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
-    font-family: 'Josefin Slab', sans-serif;
+    font-family: 'Exo 2', sans-serif;
 }
 
 /*
@@ -105,7 +105,7 @@ header {
     border-radius: 0.06em;
     padding: 2em 2em 2em 29%;
     text-align: left;
-    /* font-family: 'Josefin Sans', sans-serif; */
+    font-family: 'Orbitron', sans-serif;
     position: relative;
 }
 
@@ -142,7 +142,9 @@ h2,
 h3,
 h4,
 h5,
-h6 {}
+h6 {
+    font-family: 'Orbitron', sans-serif;
+}
 
 @media (max-width:20em) {
     border-radius: 0;
