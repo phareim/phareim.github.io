@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/phareim/phareim.github.io#readme",
   "devDependencies": {
-    "simple-autoreload-server": "^0.2.7"
+    "simple-autoreload-server": "^0.2.15"
   }
 }
